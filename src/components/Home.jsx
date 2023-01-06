@@ -46,7 +46,7 @@ const HomePage = () => {
             <div className="navbar_container">
               <div>
                 <img
-                  src="/images/VooshLogo.c64bcebd.webp"
+                  src="./images/VooshLogo.c64bcebd.webp"
                   className="voosh_logo"
                 />
               </div>
