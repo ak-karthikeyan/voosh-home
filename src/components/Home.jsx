@@ -519,7 +519,7 @@ const HomePage = () => {
               <div className="left_container">
                 <div>
                   <img
-                    src="./images/VooshLogo.c64bcebd40a2d49cc591.webp"
+                    src="./images/VooshLogo.c64bcebd.webp"
                     className="voosh_logo"
                   />
                 </div>
