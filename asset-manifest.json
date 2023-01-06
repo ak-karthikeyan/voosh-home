@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/voosh-home/static/css/main.bef9f31a.css",
+    "main.js": "/voosh-home/static/js/main.751776ff.js",
+    "static/js/787.ebd681b8.chunk.js": "/voosh-home/static/js/787.ebd681b8.chunk.js",
+    "index.html": "/voosh-home/index.html",
+    "main.bef9f31a.css.map": "/voosh-home/static/css/main.bef9f31a.css.map",
+    "main.751776ff.js.map": "/voosh-home/static/js/main.751776ff.js.map",
+    "787.ebd681b8.chunk.js.map": "/voosh-home/static/js/787.ebd681b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bef9f31a.css",
+    "static/js/main.751776ff.js"
+  ]
+}
